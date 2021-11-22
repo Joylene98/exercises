@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Create\bin\Debug\Create.exe.config
+C:\Users\User\source\repos\Create\bin\Debug\Create.exe
+C:\Users\User\source\repos\Create\bin\Debug\Create.pdb
+C:\Users\User\source\repos\Create\obj\Debug\Create.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Create\obj\Debug\Create.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Create\obj\Debug\Create.exe
+C:\Users\User\source\repos\Create\obj\Debug\Create.pdb
